@@ -1,0 +1,375 @@
+[
+    {
+        "_id": "0fa97111b7d7eac3cd026ca173fd1fe2",
+        "id": "825752400",
+        "name": "nour2724",
+        "priority": 10
+    },
+    {
+        "_id": "1c468577fcbdfaf3226c42c7275a31ec",
+        "id": "758975312",
+        "name": "ahmed77121",
+        "priority": 10
+    },
+    {
+        "_id": "a0bc220784695987afb8e9d87ad7f2cf",
+        "id": "747990799",
+        "name": "omar_kwtyy",
+        "priority": 10
+    },
+    {
+        "_id": "f6b1d803bb8981e16a732d771382310a",
+        "id": "836287815",
+        "name": "fakedreality_",
+        "priority": 10
+    },
+    {
+        "_id": "bad17f0327b48d9da3b77fb8c0eacd1c",
+        "id": "826282087",
+        "name": "abdo069885",
+        "priority": 10
+    },
+    {
+        "_id": "39136790bd74d22c497006f530b77a78",
+        "id": "746122510",
+        "name": "v_mash",
+        "priority": 10
+    },
+    {
+        "_id": "3c6b327b704967d0d9f512eadd5e6b16",
+        "id": "775490348",
+        "name": "1bbn",
+        "priority": 10
+    },
+    {
+        "_id": "bc8deaec7c21839d0e594fb3ed6b2075",
+        "id": "743915831",
+        "name": "lRolyy",
+        "priority": 10
+    },
+    {
+        "_id": "9c4e77d5c36b6a7f7f26ca4fe636f488",
+        "id": "552130504",
+        "name": "krasuer87",
+        "priority": 10
+    },
+    {
+        "_id": "2108b167df2f87d6e55de1f3fe90bfb2",
+        "id": "773265936",
+        "name": "MARAM_NAJM",
+        "priority": 10
+    },
+    {
+        "_id": "2ef45102056b6aafa57f6d13e1fed457",
+        "id": "767260737",
+        "name": "mshaelvv",
+        "priority": 10
+    },
+    {
+        "priority": 10,
+        "_id": "634554f99d049",
+        "from": "rawof",
+        "to": "",
+        "message": "",
+        "payload": {
+            "_id": "583c2e96df82849169b94fddbb0cb95f",
+            "id": "238961491",
+            "name": "rawof",
+            "priority": 10
+        },
+        "name": "rawof",
+        "repeat": true,
+        "isTest": false,
+        "createdAt": "2022-10-11 11:35:21",
+        "platform": "twitch_account",
+        "type": "follow",
+        "hash": "follow:rawof:",
+        "read": true,
+        "wotcCode": null,
+        "forceShow": false,
+        "success": false,
+        "forceRepeat": false
+    },
+    {
+        "_id": "8e64583f4a436be0cf564ab33951ebfe",
+        "id": "651268763",
+        "name": "7noiz",
+        "priority": 10
+    },
+    {
+        "_id": "b2e7ae712ec2b48cdfe00d4db4a73f75",
+        "id": "799122788",
+        "name": "ahmad19968",
+        "priority": 10
+    },
+    {
+        "_id": "2e8ff99bce0fa92c94ff7546090d7ee9",
+        "id": "835590396",
+        "name": "y8yu",
+        "priority": 10
+    },
+    {
+        "_id": "c5fb2ca6d7a0c4d48944e892a64d6d55",
+        "id": "732280538",
+        "name": "LaFlame__7",
+        "priority": 10
+    },
+    {
+        "_id": "621e5f6c5f7540df89dd196e4b918416",
+        "id": "499777613",
+        "name": "barka1",
+        "priority": 10
+    },
+    {
+        "_id": "65b428fa418f722b8b10a690b95d6cda",
+        "id": "808060079",
+        "name": "medo_m1",
+        "priority": 10
+    },
+    {
+        "_id": "25e75c8f57f8d51e96b5c46cfefa3fd2",
+        "id": "804599637",
+        "name": "Shmookh11",
+        "priority": 10
+    },
+    {
+        "_id": "fd6b6b5d066c02de569ac26f10777a49",
+        "id": "732940187",
+        "name": "b6h97",
+        "priority": 10
+    },
+    {
+        "_id": "c912b68eef9ca48d13830285a369bbe8",
+        "id": "441755073",
+        "name": "lxli01",
+        "priority": 10
+    },
+    {
+        "_id": "378370312a0954b7ee6cab94eaa5bd95",
+        "id": "194769599",
+        "name": "iiBuzzardii",
+        "priority": 10
+    },
+    {
+        "_id": "5332b90115d46f6e072c4eb62bc5521c",
+        "id": "569362960",
+        "name": "tommy_2214",
+        "priority": 10
+    },
+    {
+        "_id": "7c11a0a13ebafa0d504ac7537b6870fb",
+        "id": "835165420",
+        "name": "fIower_a00",
+        "priority": 10
+    },
+    {
+        "_id": "27d15c8d22de29beec6c8727acfb8a31",
+        "id": "836827258",
+        "name": "omar15ba",
+        "priority": 10
+    },
+    {
+        "_id": "c873a2432c82b89f828f4709ca4e78b2",
+        "id": "752208785",
+        "name": "azzam_dang",
+        "priority": 10
+    },
+    {
+        "_id": "091cda8d8ad3dcb12626b3dffa78e085",
+        "id": "836420300",
+        "name": "0505108467",
+        "priority": 10
+    },
+    {
+        "_id": "15ecd842b58343790c8197df87ada7df",
+        "id": "810980656",
+        "name": "omarhj20057",
+        "priority": 10
+    },
+    {
+        "_id": "3a8d8337782903544d4a4fc1c0571675",
+        "id": "470888681",
+        "name": "evil_motic",
+        "priority": 10
+    },
+    {
+        "_id": "41bf01e76ec935a39cac903915720dd4",
+        "id": "808606779",
+        "name": "radwa000",
+        "priority": 10
+    },
+    {
+        "_id": "a79ada1b4318162dfac1a7fef91b9cad",
+        "id": "772163289",
+        "name": "prostudio2",
+        "priority": 10
+    },
+    {
+        "_id": "4e5eba57082cf256b26faa87035426f6",
+        "id": "142352480",
+        "name": "MeshaLKhaleDx",
+        "priority": 10
+    },
+    {
+        "_id": "e5fdda4f048391834f188c54e64f6adf",
+        "id": "145324614",
+        "name": "GRVNDI",
+        "priority": 10
+    },
+    {
+        "_id": "dfac5ee4f0ab4775b4ba53a382461d33",
+        "id": "463330811",
+        "name": "UAE_K1nG",
+        "priority": 10
+    },
+    {
+        "_id": "3de9f9f769a54ef07c25d8cc38fa89ef",
+        "id": "139961640",
+        "name": "IParvana",
+        "priority": 10
+    },
+    {
+        "_id": "f59ba7fd43422d1f22cfb3baa8fbc547",
+        "id": "835543561",
+        "name": "wowowiisksjsw88s",
+        "priority": 10
+    },
+    {
+        "_id": "73396504c7f7b4e2867863a6c9ce085b",
+        "id": "837097588",
+        "name": "amira_190",
+        "priority": 10
+    },
+    {
+        "_id": "fa909213855f5f060dae9cc112dd81b7",
+        "id": "837329807",
+        "name": "humanityproof",
+        "priority": 10
+    },
+    {
+        "_id": "8a107baa5b5c73f51ea18243784f64b3",
+        "id": "837334725",
+        "name": "rumersgreat",
+        "priority": 10
+    },
+    {
+        "_id": "ebece0d68bea6d58a1e3d8df5c725239",
+        "id": "139370664",
+        "name": "Rvoi",
+        "priority": 10
+    },
+    {
+        "_id": "4907011b9706a76a1047aa8307e4a35a",
+        "id": "202675037",
+        "name": "ejjo",
+        "priority": 10
+    },
+    {
+        "_id": "fd51b7228f4cc30cc5bf860ab82bef13",
+        "id": "837436301",
+        "name": "khalid_922_bank",
+        "priority": 10
+    },
+    {
+        "_id": "3b2e9f875fa91b0c4238d2893f7131e5",
+        "id": "732220702",
+        "name": "iker_flamenliu",
+        "priority": 10
+    },
+    {
+        "_id": "b9b5a380ed37b19cb2c7971ff274ed1a",
+        "id": "795823978",
+        "name": "diar7ali",
+        "priority": 10
+    },
+    {
+        "_id": "6b6603696677ce31172f5d6d17ce4e71",
+        "id": "673112622",
+        "name": "abdulelah_TX3",
+        "priority": 10
+    },
+    {
+        "_id": "b847f9d7f21b5c79baa5aca01c0546e4",
+        "id": "802643605",
+        "name": "not_adakli",
+        "priority": 10
+    },
+    {
+        "_id": "d11c97f470d7e7b9680962421719de66",
+        "id": "442670395",
+        "name": "IlNACHT",
+        "priority": 10
+    },
+    {
+        "_id": "f2bf327a5bc69cb3f343c812a41ac5bf",
+        "id": "548801085",
+        "name": "yc4i",
+        "priority": 10
+    },
+    {
+        "_id": "b8c5ec105dad0f3c41e91d2ef82ad82f",
+        "id": "572559142",
+        "name": "l7m3lf7m",
+        "priority": 10
+    },
+    {
+        "_id": "0bfad50624870c6d50315b191de0704c",
+        "id": "113163923",
+        "name": "vFahad_",
+        "priority": 10
+    },
+    {
+        "_id": "632443a4748c28dd5fd1afe1f2f4d518",
+        "id": "487795721",
+        "name": "mayada91",
+        "priority": 10
+    },
+    {
+        "_id": "bdcbea8134a141359cb057b4f37ec960",
+        "id": "838383395",
+        "name": "zeur12",
+        "priority": 10
+    },
+    {
+        "_id": "92b1cc11331b959f6e7e427c16b65d09",
+        "id": "827641260",
+        "name": "u9qw",
+        "priority": 10
+    },
+    {
+        "_id": "15799a09034f9675cc88c3f82aec2ea2",
+        "id": "619781790",
+        "name": "Roy4_",
+        "priority": 10
+    },
+    {
+        "_id": "a93ec139a0422947a2d6e8607c4b46d9",
+        "id": "823648975",
+        "name": "abdoo_hassan",
+        "priority": 10
+    },
+    {
+        "_id": "e88a00c7fccacddb3a09529bf4c4e6ce",
+        "id": "668013558",
+        "name": "i_w2l",
+        "priority": 10
+    },
+    {
+        "_id": "65ebd23a5785215934b6cc700affe34b",
+        "id": "451474807",
+        "name": "BlackWolf_Pie",
+        "priority": 10
+    },
+    {
+        "_id": "41684e75c9cdffd4b6c891281059f6e5",
+        "id": "202329023",
+        "name": "shaima_7",
+        "priority": 10
+    },
+    {
+        "_id": "49c0245dbeaaf7c75fa444b4e5fe3a38",
+        "id": "525550525",
+        "name": "adel8180",
+        "priority": 10
+    }
+]

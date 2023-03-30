@@ -1,0 +1,15 @@
+{
+    "deadline": 1671389920,
+    "precision": "seconds",
+    "donations": {
+        "multiplier": 120
+    },
+    "bits": {
+        "multiplier": 140
+    },
+    "subs": {
+        "1": 250,
+        "2": 500,
+        "3": 1000
+    }
+}
